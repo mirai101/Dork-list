@@ -1,4 +1,4 @@
 <h1>Dorks</h1>
-Local File Inclusion
-Remote File Inclusion
-SQL Ijection
+1. Local File Inclusion
+2. Remote File Inclusion
+3. SQL Ijection
